@@ -7,7 +7,7 @@ import pymatgen.matproj.rest as rester
 import pymatgen.io.smartio as sio
 import pymatgen.io.vaspio_set
 
-API_KEY = "***REMOVED***"
+API_KEY = ""
 PSF_LINK = "http://departments.icmab.es/leem/siesta/Databases/Pseudopotentials/Pseudos_GGA_Abinit/"
 
 
