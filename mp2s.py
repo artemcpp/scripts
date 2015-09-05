@@ -4,7 +4,7 @@ import sys
 import pymatgen as pm
 import re
 
-m = pm.MPRester("api_key")
+m = pm.MPRester("")
 
 def GetStructure(id):
 	st = m.get_structure_by_material_id(id, False)
